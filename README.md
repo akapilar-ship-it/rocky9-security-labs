@@ -21,7 +21,7 @@ Projet pratique de cybersécurité Linux basé sur Rocky Linux 9.
 - Ansible : automatisation sécurité
 - Scripts Bash : hardening initial
 - Documentation technique
-- Rapport OpenSCAP CIS
+- Rapport OpenSCAP CIS (https://akapilar-ship-it.github.io/rocky9-security-labs/)
 
 ## Niveau
 
