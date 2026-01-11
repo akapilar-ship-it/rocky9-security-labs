@@ -1,0 +1,7 @@
+---
+- hosts: rocky
+  become: yes
+  roles:
+    - base_hardening
+
+...
